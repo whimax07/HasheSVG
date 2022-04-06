@@ -1,0 +1,15 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="Gray" />
+<polygon points="193,30 100,21 100,30" fill="DarkGreen" />
+<polygon points="12,127 81,127 81,109" fill="SeaGreen" />
+<polygon points="91,106 91,250 20,106" fill="DarkGreen" />
+<polygon points="215,92 164,129 164,92" fill="DarkSeaGreen" />
+<polygon points="75,87 75,69 59,69" fill="LimeGreen" />
+<polygon points="156,154 50,154 50,33" fill="LimeGreen" />
+<polygon points="35,99 178,99 178,225" fill="DarkGreen" />
+<polygon points="65,34 65,229 98,229" fill="LimeGreen" />
+<polygon points="152,200 152,10 148,10" fill="DarkGreen" />
+<polygon points="150,173 150,126 254,173" fill="DarkSeaGreen" />
+<polygon points="86,30 217,30 217,236" fill="DarkSeaGreen" />
+<polygon points="164,242 164,182 250,182" fill="DarkSeaGreen" />
+</svg>
